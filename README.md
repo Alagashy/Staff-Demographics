@@ -3,10 +3,18 @@
 ### Project Overview
 
 The goal of this analysis project is to offer insights into the diversity of staff within FMDC's ICT department, considering factors such as gender, age, qualification, designation, religion, and more. Examining these factors enables data-driven decision-making and enhances our understanding of the organization's demographic composition.
+
+
+
+#### *Dashboard*
 <img width="794" alt="fmdc portfolio image" src="https://github.com/Alagashy/Staff-Demographics/assets/129556814/06122830-77b1-40a7-952b-1fae7f933d71">
 
+
+#### *Raw Data*
 <img width="941" alt="fmdc dirty data" src="https://github.com/Alagashy/Staff-Demographics/assets/129556814/e159a73e-645b-4951-8878-b175ee648327">
 
+
+#### *Cleaned Data*
 <img width="932" alt="fmdc cleaned data" src="https://github.com/Alagashy/Staff-Demographics/assets/129556814/d3e0c6e0-5133-4896-ab58-833d7312dcc9">
 
 
